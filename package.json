@@ -108,7 +108,7 @@
     "@nrwl/nest": "12.10.1",
     "@nrwl/node": "12.10.1",
     "@nrwl/workspace": "12.10.1",
-    "@semantic-release/changelog": "5.0.1",
+    "@semantic-release/changelog": "6.0.3",
     "@types/concurrently": "6.4.0",
     "@types/fs-extra": "9.0.13",
     "@types/inquirer": "8.2.6",
